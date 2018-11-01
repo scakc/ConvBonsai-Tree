@@ -5,3 +5,6 @@ Its a recent research by Microsoft Research India on non linear decision tree ba
 
 
 Link to actual research done by Microsoft Research India : https://github.com/Microsoft/EdgeML
+
+
+Currently working on expanding the concept to convolutional networks using cifar-10 dataset.
