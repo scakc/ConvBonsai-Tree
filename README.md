@@ -1,4 +1,4 @@
-# Bonsai-Tree
+# ConvBonsai Tree
 
 
 Its a recent research by Microsoft Research India on non linear decision tree based method for classification purpose. It achieves high accuracy with less size for resource constraint devices. I am reproducing the code with a bit of simplification.
