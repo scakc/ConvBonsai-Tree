@@ -12,3 +12,15 @@ Link to Comparison of different other models and report by our group on this mod
 
 
 A recent Publication following this method is : https://arxiv.org/pdf/1904.08249.pdf
+
+
+
+## Usage 
+
+It's by default set to use cifar 10 dataset.
+
+Run
+
+```
+python ./main.py
+```
